@@ -1,4 +1,3 @@
-import { StatusBar } from "expo-status-bar";
 import {
   Animated,
   Dimensions,
@@ -193,7 +192,8 @@ const styles = StyleSheet.create({
   horizontalFlatlistContainer: {
     flexDirection: "row",
     height: hp("12%"),
-    paddingRight: 20,
+    paddingRight: wp("5%"),
+    paddingLeft: wp("5%"),
   },
   verticalFlatListItem: {
     minHeight: hp("6.5%"),
