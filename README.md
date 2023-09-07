@@ -18,4 +18,4 @@ Make sure you have the expo-cli pre installed in your pc. Then do,
 npx expo start
 
 ```
-The development server will start running you can scan the QR from the terminal and you would be able to test the app.
+The development server will start running you can scan the QR from the terminal using expo go app for android or camera app for ios and you would be able to test the app.
